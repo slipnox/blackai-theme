@@ -1,0 +1,66 @@
+{
+  "name": "blackai-visual-studio-code",
+  "displayName": "blackai-theme",
+  "description": "A blacked monokai theme for Visual Studio Code.",
+  "version": "0.1.1",
+  "publisher": "asilverio",
+  "author": {
+    "name": "Abrahan Silverio",
+    "email": "abrahansmg@gmail.com"
+  },
+  "homepage": "https://github.com/slipnox/blackai-theme.git",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/slipnox/blackai-theme.git"
+  },
+  "bugs": {
+    "url": "https://github.com/slipnox/blackai-theme.git/issues"
+  },
+  "license": "Apache 2.0",
+  "engines": {
+    "vscode": "^1.12.0"
+  },
+  "galleryBanner": {
+    "color": "#2E3440",
+    "theme": "dark"
+  },
+  "icon": "assets/blackai-icon.png",
+  "markdown": "github",
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "black",
+    "monokai",
+    "dark",
+    "blackai"
+  ],
+  "badges": [
+    {
+      "url": "https://vsmarketplacebadge.apphb.com/version-short/blackai-visual-studio-code.svg",
+      "href": "https://marketplace.visualstudio.com/items/asilverio.blackai-visual-studio-code",
+      "description": "Extension version"
+    },
+    {
+      "url": "https://vsmarketplacebadge.apphb.com/installs/asilverio.blackai-visual-studio-code.svg",
+      "href": "https://marketplace.visualstudio.com/items/asilverio.blackai-visual-studio-code",
+      "description": "Extension installs"
+    },
+    {
+      "url": "https://vsmarketplacebadge.apphb.com/rating/asilverio.blackai-visual-studio-code.svg",
+      "href": "https://marketplace.visualstudio.com/items/asilverio.blackai-visual-studio-code",
+      "description": "Extension Rating"
+    }
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Blakai Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/blackai-theme.json"
+      }
+    ]
+  },
+  "devDependencies": {
+  }
+}
