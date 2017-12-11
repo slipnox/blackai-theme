@@ -22,8 +22,8 @@ If you want to change any color, you can use the setting `workbench.colorCustomi
 }
 ```
 # ScreenShots
-![ScreenShot](https://raw.githubusercontent.com/slipnox/blackai-theme/assets/ss1.png)
+![ScreenShot](https://raw.githubusercontent.com/slipnox/blackai-theme/master/assets/ss1.png)
 
-![ScreenShot](https://raw.githubusercontent.com/slipnox/blackai-theme/assets/ss2.png)
+![ScreenShot](https://raw.githubusercontent.com/slipnox/blackai-theme/master/assets/ss2.png)
 
-![ScreenShot](https://raw.githubusercontent.com/slipnox/blackai-theme/assets/ss3.png)
+![ScreenShot](https://raw.githubusercontent.com/slipnox/blackai-theme/master/assets/ss3.png)
