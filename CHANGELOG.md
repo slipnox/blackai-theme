@@ -1,3 +1,11 @@
+## 0.1.7
+
+- removed marketplace link
+
+## 0.1.6
+
+- removed version link
+
 ## 0.1.5
 
 - fixed issues link
