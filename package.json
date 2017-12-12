@@ -1,8 +1,8 @@
 {
   "name": "blackai-visual-studio-code",
   "displayName": "blackai-theme",
-  "description": "A blacked monokai theme for Visual Studio Code.",
-  "version": "0.1.1",
+  "description": "A blacked monokai based theme for Visual Studio Code.",
+  "version": "0.1.5",
   "publisher": "asilverio",
   "author": {
     "name": "Abrahan Silverio",
@@ -14,7 +14,7 @@
     "url": "https://github.com/slipnox/blackai-theme.git"
   },
   "bugs": {
-    "url": "https://github.com/slipnox/blackai-theme.git/issues"
+    "url": "https://github.com/slipnox/blackai-theme/issues"
   },
   "license": "Apache 2.0",
   "engines": {
@@ -33,6 +33,7 @@
     "black",
     "monokai",
     "dark",
+    "theme",
     "blackai"
   ],
   "badges": [
