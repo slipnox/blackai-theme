@@ -1,3 +1,7 @@
+## 0.1.8
+
+- added some editor coloring
+
 ## 0.1.7
 
 - removed marketplace link

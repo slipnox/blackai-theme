@@ -8,8 +8,6 @@ Paste the following command and press `Enter`:
 ext install blackai-visual-studio-code
 ```
 
-[GitHub repository](https://github.com/slipnox/blackai-theme/)
-
 # CHANGELOG
 [CHANGELOG.MD](CHANGELOG.md)
 
