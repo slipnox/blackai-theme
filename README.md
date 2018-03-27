@@ -1,7 +1,7 @@
 # Blackai Theme
 ### Elegant dark theme combined with the classic monokai colors, to bring a black edition code editing experience. Enjoy :)
 
-<!-- #### <img src="https://marketplace.visualstudio.com/favicon.ico" width=16 height=16/> [VS Code Extension Marketplace](https://marketplace.visualstudio.com/items?itemName=asilverio.blackai-visual-studio-code) -->
+#### <img src="https://marketplace.visualstudio.com/favicon.ico" width=16 height=16/> [VS Code Extension Marketplace](https://marketplace.visualstudio.com/items?itemName=asilverio.blackai-visual-studio-code)
 
 Paste the following command and press `Enter`:
 ```shell
