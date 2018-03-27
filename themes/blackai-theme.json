@@ -18,8 +18,10 @@
 		"diffEditor.insertedTextBackground": "#66852880", // middle of #272822 and #a6e22e
 		"diffEditor.removedTextBackground": "#90274A80", // middle of #272822 and #f92672
 		"dropdown.background": "#464546",
-		"editor.background": "#0a0a0a",
+		"editor.background": "#070707",
 		"editor.foreground": "#f8f8f2",
+		"editorLineNumber.foreground": "#575757",
+		"editorActiveLineNumber.foreground": "#f3f3f3",
 		"editor.lineHighlightBackground": "#1B1B16",
 		"editor.selectionBackground": "#3E3E3E",
 		"editorCursor.foreground": "#f8f8f0",
@@ -29,7 +31,6 @@
 		"editorHoverWidget.background": "#414339",
 		"editorHoverWidget.border": "#75715E",
 		"editorIndentGuide.background": "#464741",
-		"editorLineNumber.foreground": "#90908a",
 		"editorSuggestWidget.background": "#272822",
 		"editorSuggestWidget.border": "#75715E",
 		"editorWhitespace.foreground": "#464741",
@@ -91,9 +92,8 @@
 		"terminal.ansiYellow": "#B3B42B",
 		"titleBar.activeBackground": "#1e1f1c",
 		"widget.shadow": "#000000",
-        "editorBracketMatch.border": "#b90044",
-        "editorGutter.background": "#181818",
-        "sideBarTitle.foreground": "#fff"
+		"editorBracketMatch.border": "#b90044",
+		"sideBarTitle.foreground": "#ffffff"
 	},
 	"tokenColors": [
 		{

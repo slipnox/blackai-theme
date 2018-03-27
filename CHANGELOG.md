@@ -1,3 +1,7 @@
+## 0.1.9
+
+- changed editor line number colors
+
 ## 0.1.8
 
 - added some editor coloring
